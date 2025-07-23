@@ -8,8 +8,10 @@
 ---
 
 ## 📸 Demonstração
-
-![Arius Sistemas Screenshot](./assets/img/screenshot.png)
+-> Pagina Home - Sobre - revenda
+![Arius Sistemas Screenshot](./assets/img/home)
+![Arius Sistemas Screenshot](./assets/img/sobre)
+![Arius Sistemas Screenshot](./assets/img/revenda)
 
 ---
 
