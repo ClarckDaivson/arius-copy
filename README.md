@@ -2,8 +2,16 @@
 
 
 > Site de desenvolvimento para prática em programação front-end, baseado na interface institucional da Arius Sistemas.
+> 
+## ⚠️ Aviso
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+> Este código é livre para **fins de estudo**, mas o uso **comercial do layout ou da marca é proibido**.
+
+
+![Uso apenas educacional](https://img.shields.io/badge/uso-educacional-orange?style=for-the-badge&logo=github)
+![Proibido uso comercial](https://img.shields.io/badge/uso%20comercial-proibido-red?style=for-the-badge&logo=probot)
+
+O layout e as informações foram inspirados na identidade visual , com o objetivo de simular um ambiente real de desenvolvimento.
 
 
 > 🚧 **Atenção:** Este site ainda está em desenvolvimento e manutenção.  
