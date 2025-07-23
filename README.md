@@ -68,8 +68,8 @@ Este projeto tem como finalidade o estudo e prática de desenvolvimento front-en
 📧 daivson.natanaele@gmail.com  
 📍 São Paulo - SP
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daivson%20Natanaele-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/seu-perfil)  
-[![GitHub](https://img.shields.io/badge/GitHub-daivsonnatanaele-000?style=flat-square&logo=github)](https://github.com/seuusuario)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daivson%20Natanaele-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/daivson-natanaele-5834b745/l)  
+[![GitHub](https://img.shields.io/badge/GitHub-daivsonnatanaele-000?style=flat-square&logo=github)](https://github.com/ClarckDaivson)
 
 ---
 
