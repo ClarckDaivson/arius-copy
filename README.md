@@ -1,17 +1,23 @@
 # 🖥️ AriusCopy
 
+
 > Site de desenvolvimento para prática em programação front-end, baseado na interface institucional da Arius Sistemas.
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
 ![Licença](https://img.shields.io/badge/licença-MIT-blue)
 
+> 🚧 **Atenção:** Este site ainda está em desenvolvimento e manutenção.  
+> Algumas seções estão incompletas e não há prazo definido para conclusão total do projeto.
+> > 🛑 **Aviso Legal:** Este projeto é exclusivamente para fins de estudo e prática em front-end.  
+> O layout utilizado é baseado na identidade visual da empresa **Arius Sistemas** e **não está disponível para comercialização ou uso oficial**.
+
 ---
 
 ## 📸 Demonstração
 -> Pagina Home - Sobre - revenda
-![Arius Sistemas Screenshot](./assets/img/home)
-![Arius Sistemas Screenshot](./assets/img/sobre)
-![Arius Sistemas Screenshot](./assets/img/revenda)
+![Arius Sistemas Screenshot](https://github.com/ClarckDaivson/arius-copy/raw/main/assets/img/home.png)
+![Arius Sistemas Screenshot]([./assets/img/sobre.png](https://github.com/ClarckDaivson/arius-copy/blob/main/assets/img/sobre.png)
+![Arius Sistemas Screenshot](https://github.com/ClarckDaivson/arius-copy/blob/main/assets/img/revenda.png)
 
 ---
 
@@ -22,7 +28,7 @@
 - Bootstrap 5
 - Font Awesome
 - Responsividade com Media Queries
-- JavaScript (se aplicável)
+- JavaScript
 
 ---
 
